@@ -10,6 +10,7 @@ body:
     description: You may select more than one.
     options:
       - label: macOS
+        required: true
 - type: textarea
   id: idea
   attributes:
