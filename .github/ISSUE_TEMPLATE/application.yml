@@ -10,8 +10,6 @@ body:
     description: You may select more than one.
     options:
       - label: macOS
-      - label: Windows
-      - label: Linux
 - type: textarea
   id: idea
   attributes:
