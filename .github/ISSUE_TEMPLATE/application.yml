@@ -4,13 +4,14 @@ title: <Тема вашего проекта>
 labels: [На рассмотрении]
 body:
 - type: checkboxes
-  id: captain
+  id: operating-systems
   attributes:
-    label: Вы капитан команды?
-    description: Подать заявку может только капитан команды. Капитан принимает все решения в команде, добавляет и исключает участников, представляет проект
+    label: Which operating systems have you used?
+    description: You may select more than one.
     options:
-    - label: Да, я капитан команды
-      required: true
+      - label: macOS
+      - label: Windows
+      - label: Linux
 - type: textarea
   id: idea
   attributes:
