@@ -9,7 +9,7 @@ body:
     label: Which operating systems have you used?
     description: You may select more than one.
     options:
-      - label: Даякапитанкоманды
+      - label: Da ya kapitan komandi
         required: true
 - type: textarea
   id: idea
