@@ -9,7 +9,7 @@ body:
     label: Which operating systems have you used?
     description: You may select more than one.
     options:
-      - label: macOS
+      - label: Да, я капитан команды
         required: true
 - type: textarea
   id: idea
